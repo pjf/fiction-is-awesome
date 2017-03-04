@@ -4,6 +4,7 @@
 [white][text-color=black]
 [shading-opacity=0.0]
 [text-align=center]
+[duration=5]
 
 --
 Fiction is Awesome
@@ -39,9 +40,15 @@ Entertainment
 →
 New ideas
 
+# Fabulously sneaky, because people
+# think they're getting entertainment,
+# but you're really feeding them new ideas
 --
 Fan
 Fiction
+
+# And some of the most influential works I've
+# read have been Fan-Fiction.
 
 -- [images/HPMOR.jpg]
 
@@ -52,6 +59,7 @@ Fiction
 
 # About how the truth
 # can be manipulated
+# for political gain
 # 
 # The Last Ringbearer
 
@@ -100,6 +108,11 @@ healthy
 Unhealthy
 Romance
 
+# I'm a fan of romance novels, but a lot
+# of romances depicted are deeply problematic
+# 
+# And if we look at relational psychology, we
+# can understand why.
 --
 Attachment
 Theory
@@ -133,6 +146,7 @@ avoidant
 Terrible
 pairing
 
+# Each plays to the other's fears
 --
 Extremely
 common
@@ -150,6 +164,9 @@ roles
 --
 Popular
 fiction
+
+# And we see this *all the time*
+# in popular fiction...
 
 -- [images/twilight.jpg]
 
@@ -244,7 +261,8 @@ Thank
 you
 --
 Text/Slides
-CC-BY Paul Fenwick
+CC-BY-4.0
+Paul '@pjf' Fenwick
 
 github.com/
 pjf/fiction-is-awesome
