@@ -1,3 +1,10 @@
+# What's here?
+
+- `fiction-is-awesome.pin` - My five minute lightning talk
+- `make; ./fiction.pin` - My long 30 minute talk.
+
+You'll need `pinpoint` to run the talks, and `pinpp` to build the long one.
+However you can just read the source and enjoy. :)
 
 ## Further Reading
 
