@@ -9,5 +9,7 @@
 --
 @include <intro.pin>
 @include <how-to-live.pin>
-@include <representation.pin>
+// @include <representation.pin>
+// This got rolled into demographics
 @include <demographics.pin>
+@include <outro.pin>
