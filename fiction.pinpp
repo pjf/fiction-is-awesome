@@ -1,0 +1,13 @@
+#!/usr/bin/env pinpoint
+
+[font=Sans 200px]
+[white][text-color=black]
+[shading-opacity=0.0]
+[text-align=center]
+[duration=30]
+
+--
+@include <intro.pin>
+@include <how-to-live.pin>
+@include <representation.pin>
+@include <demographics.pin>
